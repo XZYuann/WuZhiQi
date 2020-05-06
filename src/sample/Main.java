@@ -405,7 +405,6 @@ public class Main extends Application {
         drawChessUnit(button, i, j);
     }
 
-
     public void drawChessUnit( Button button, Integer i, Integer j ) {
 
         Integer width = chessPaneUnitWidth;
